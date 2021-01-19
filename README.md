@@ -1,6 +1,6 @@
 # flutter_auth_firebase
 
-Flutter Firebase Auth all the Social media available in firebase
+Flutter Firebase Auth with Facebook and Google
 
 ## Getting Started
 
